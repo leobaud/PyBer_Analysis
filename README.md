@@ -2,7 +2,7 @@
 
 ## Background and Results
 
-V. Isualize has requested anew assignment, one that will require the use of everything learned to solve a new challenge: creating a summary DataFrame of the key metrics for the ride-sharing data by city type; creating a multiple-line graph that shows the total fares for each week by each city type; and submitting a written report on the results of the new analysis, challenges encountered and overcame, and any future recommendations for analysis.
+V. Isualize has requested a new assignment, one that will require the use of everything learned to solve a new challenge: creating a summary DataFrame of the key metrics for the ride-sharing data by city type; creating a multiple-line graph that shows the total fares for each week by each city type; and submitting a written report on the results of the new analysis, challenges encountered and overcame, and any future recommendations for analysis.
 
 ### Purpose
 
